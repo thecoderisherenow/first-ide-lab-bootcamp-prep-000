@@ -1,9 +1,9 @@
 # Your First IDE Lab
 
 <div class="readme-content-test--hide-when-active">
-
+"Hello, World!"
   <br>
-
+helloworld
   Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
   Watch the video below to see how to solve this lab.
